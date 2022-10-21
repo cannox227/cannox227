@@ -27,6 +27,13 @@ My name is Tommaso Canova, people know me also as __cannox__, my friends sometim
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/1280px-KiCad-Logo.svg.png" title="KiCad" alt="KiCad" width="100" height="40"/>&nbsp;
 </div>
 
+## 🏭 Latest projects
+
+- [Fenice BMS LV](https://github.com/cannox227/fenice-bms-lv) (currently not visible due to NDA)
+- [Step Motor Testbench](https://github.com/cannox227/Step-Motor-Test-Bench)
+- [Solar Azimuth and eLevation Motorized lOcator](https://github.com/cannox227/Solar-Azimuth-and-eLevation-Motorized-lOcator)
+- [Position and Temperature Controller](https://github.com/cannox227/Position-and-Temperature-Controller)
+
 ## 📫 How to reach me: 
 <div><p><a href="https://github.com/cannox227" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/tommaso-canova/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </div>
 
