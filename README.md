@@ -6,17 +6,25 @@ My name is Tommaso Canova, people know me also as __cannox__, my friends sometim
 
 ## 🤓 Something about me
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎓 I'm attending the MSc in Artificial Intelligence at University of Trento
+&nbsp;&nbsp;&nbsp;&nbsp;🥶 Currently freezing at Aalto University (Erasmus+) 🇫🇮.
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎓 On septembrer 2022 I've graduated in Computer and Electronic Engineering at University of Trento, with a grade of 110/110 cum laude
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 Enrolled in the MSc in Artificial Intelligence at University of Trento
 
-&nbsp;&nbsp;&nbsp;&nbsp;💻 I'm an Embedded Software Engineer at [E-Agle Trento Racing Team](https://github.com/eagletrt/), the [Formula SAE](https://en.wikipedia.org/wiki/Formula_SAE) team of UNITN
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 Graduated in Computer and Electronic Engineering at University of Trento, with a grade of 110/110 with honors
 
-&nbsp;&nbsp;&nbsp;&nbsp;🤖 I'm interested both in Embedded Systems - and Electronics in general - and in Artificial Intelligence
+&nbsp;&nbsp;&nbsp;&nbsp;💻 Spent two years in Formula Student with [E-Agle Trento Racing Team](https://github.com/eagletrt/), the [Formula SAE](https://en.wikipedia.org/wiki/Formula_SAE) team of UNITN.
 
-&nbsp;&nbsp;&nbsp;&nbsp;🏉 I'm very keen on tech and electronics and I've been a rugby player until my 22 y.o.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍🍳 Role covered:
 
-&nbsp;&nbsp;&nbsp;&nbsp;✅ I'm a big fan of bullet lists
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_First year:_ **Embedded Software Engineer**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Second year:_ **Team Leader**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🤖 Interested in: Artificial Intelligence, Embedded Systems, Electronics
+
+&nbsp;&nbsp;&nbsp;&nbsp;🏉 Keen on tech, former rugby player
+
+&nbsp;&nbsp;&nbsp;&nbsp;✅ Huge fan of bullet lists
 
 ## 👀 Something I'm using or I've used to do stuffs
 <div>
