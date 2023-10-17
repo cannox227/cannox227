@@ -26,6 +26,11 @@ My name is Tommaso Canova, people know me also as __cannox__, my friends sometim
 
 &nbsp;&nbsp;&nbsp;&nbsp;✅ Huge fan of bullet lists
 
+## 🧪 Currently working on
+
+&nbsp;&nbsp;&nbsp;&nbsp;🔊 [Fingerprint detection](https://github.com/cannox227/hifi-gan-watermark/tree/watermark) and retrievial for audio generated with Hi-Fi Gan 
+
+
 ## 👀 Something I'm using or I've used to do stuffs
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
