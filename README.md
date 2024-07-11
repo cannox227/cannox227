@@ -11,13 +11,13 @@ My name is Tommaso Canova, people know me also as __cannox__, my friends sometim
 🎓 Graduated in Computer and Electronic Engineering at University of Trento, with honours\
 🏎️ Former **Formula Student Member** (more about [here](https://en.wikipedia.org/wiki/Formula_Student)), covered the Team Leader and Embedded Software Engineer roles -> [E-Agle Trento Racing Team](https://github.com/eagletrt/)\
 🏉 Former **Rugby** Player\
-🤖 Interested in Artificial Intelligence, Embedded Systems, Electronics and Entrepreneurship
+🤖 Interested in Artificial Intelligence, Embedded Systems, Electronics and Entrepreneurship \
 ✅ Huge fan of bullet lists
 
 ## 🧪 Currently working on
 😷 SIRD disease model optimization using genetic algorithms and Deep Learning. \
 🎧 [Taylor's Tune](https://github.com/cannox227/Taylor-s-Tune), try it [here!](https://taylors-tune.streamlit.app/) \
-🌐 Secret stuffs @[Nokia](https://www.nokia.com/) 
+🌐 Secret stuff @[Nokia](https://www.nokia.com/) 
 
 ## 👀 Something I'm using or I've used to do stuffs
 
