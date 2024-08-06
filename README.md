@@ -17,7 +17,7 @@ My name is Tommaso Canova, people know me also as __cannox__, my friends sometim
 ## 🧪 Currently working on
 😷 SIRD disease model optimization using genetic algorithms and Deep Learning. \
 🎧 [Taylor's Tune](https://github.com/cannox227/Taylor-s-Tune), try it [here!](https://taylors-tune.streamlit.app/) \
-🌐 Secret stuff @[Nokia](https://www.nokia.com/) 
+🌐 Asking LLMs what they know about Telco @[Nokia](https://www.nokia.com/) 
 
 ## 👀 Something I'm using or I've used to do stuffs
 
