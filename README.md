@@ -6,18 +6,21 @@ My name is Tommaso Canova, people know me also as __cannox__, my friends sometim
 
 ## 🤓 Something about me
 🧖 Sauna lover / [Sompahuman](https://www.sompasauna.fi/in-english) \
-🇫🇮 **Erasmus+** student at [Aalto University](https://www.aalto.fi/en) (Finland) \
-🎓 Enrolled in the MSc in Artificial Intelligence at University of Trento \
-🎓 Graduated in Computer and Electronic Engineering at University of Trento, with honours\
-🏎️ Former **Formula Student Member** (more about [here](https://en.wikipedia.org/wiki/Formula_Student)), covered the Team Leader and Embedded Software Engineer roles -> [E-Agle Trento Racing Team](https://github.com/eagletrt/)\
-🏉 Former **Rugby** Player\
+🇮🇹➡️🇫🇮 Italian-born, based in **Espoo, Finland** \
+💻 **Machine Learning Engineer** at [Kuva Space](https://www.kuvaspace.com/) \
+🚴 Riding to Paris to raise funds for seriously ill children with [Team Rynkeby Espoo](https://www.team-rynkeby.fi/) \
+🎓 MSc in Artificial Intelligence Systems — [Aalto University](https://www.aalto.fi/en) & [University of Trento](https://www.unitn.it/en) \
+🎓 Graduated in Computer and Electronic Engineering at University of Trento, with honours \
+🏎️ Former **Formula Student Member** (more about [here](https://en.wikipedia.org/wiki/Formula_Student)), covered the Team Leader and Embedded Software Engineer roles -> [E-Agle Trento Racing Team](https://github.com/eagletrt/) \
+🏉 Former **Rugby** Player \
 🤖 Interested in Artificial Intelligence, Embedded Systems, Electronics and Entrepreneurship \
 ✅ Huge fan of bullet lists
 
 ## 🧪 Currently working on
-😷 SIRD disease model optimization using genetic algorithms and Deep Learning. \
-🎧 [Taylor's Tune](https://github.com/cannox227/Taylor-s-Tune), try it [here!](https://taylors-tune.streamlit.app/) \
-🌐 Asking LLMs what they know about Telco @[Nokia](https://www.nokia.com/) 
+🛰️ Developing deep learning models that translate raw hyperspectral satellite data into actionable Earth Observation analytics products @[Kuva Space](https://www.kuvaspace.com/) 
+
+## 🌍 Open Source Contributions
+🌱 [**Fields of The World - ftw-baselines**](https://github.com/fieldsoftheworld/ftw-baselines)
 
 ## 👀 Something I'm using or I've used to do stuffs
 
