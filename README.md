@@ -5,7 +5,7 @@ If you have found this page cool, maybe you're into open source development or j
 My name is Tommaso Canova, people know me also as __cannox__, my friends sometimes describe me as a funny dwarf, I don't know if they are right or not, in case we meet you may will discover it by yourself (just kidding, I'm not funny at all).
 
 ## 🤓 Something about me
-🧖 Sauna lover / [Sompahuman](https://www.sompasauna.fi/in-english) \
+🧖 Sauna lover / [Sompahuman](https://sompasauna.fi/home.html) \
 🇮🇹➡️🇫🇮 Italian-born, based in **Espoo, Finland** \
 💻 **Machine Learning Engineer** at [Kuva Space](https://www.kuvaspace.com/) \
 🚴 Riding to Paris to raise funds for seriously ill children with [Team Rynkeby Espoo](https://www.team-rynkeby.fi/) \
